@@ -17,3 +17,7 @@ PySC
     falls back to injecting into the current process.
 
     Module dependancies: none
+
+Optional:
+
+--> Includes server-side code for Metasploit and Python SCAPY for delivery of shellcode YMMV
